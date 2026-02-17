@@ -3,7 +3,6 @@ This is our **challenge library** for **CACI's 2026 CTF**.
 ## Contributors
 For any further clarification, please contact either:
 
-
 <details>
   <summary>Eduardo Murillo</summary>
   &nbsp;&nbsp;&nbsp;&nbsp;
